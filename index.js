@@ -1,7 +1,10 @@
 const Discord = require("discord.js");
+const fs = require("fs");
 const bot = new Discord.Client({
   disableEveryone: true
 });
+const CurrentTimers = new Map();
+const client = new Discord.Client();
 
 var stickyMessage = null;
 
