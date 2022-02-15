@@ -9,7 +9,7 @@ This is a notification system that allows you to notify people who have a certai
 # Contact Me!
  If you have any questions/suggestions or any problems with my work, feel free to contact me via email or message me on discord!
 
-  Discord: *Neoptunium#1111*
+  Discord: *neoptunium#1111*
 
   Email: *neoptunium@gmail.com*
 
