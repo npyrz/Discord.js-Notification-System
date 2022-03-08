@@ -7,7 +7,9 @@ This is a notification system that allows you to notify people who have a certai
 **[PREFIX]unsticky**
 
 # Credits
-https://github.com/andrerahardjo97/discord-sticky-message-bot (New version of the sticky feature, old version which was made by me can be found in previous commits)
+https://github.com/andrerahardjo97/discord-sticky-message-bot 
+
+(New version of the sticky feature, old version which was made by me can be found in previous commits)
 
 # Contact Me!
  If you have any questions/suggestions or any problems with my work, feel free to contact me via email or message me on discord!
