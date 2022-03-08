@@ -1,6 +1,5 @@
 const { Client, Collection, Intents } = require('discord.js');
 const client = new Client({ intents: [Intents.FLAGS.GUILDS, Intents.FLAGS.GUILD_MESSAGES] });
-const { MessageEmbed } = require('discord.js');
 const { token } = require('./config.json');
   require("dotenv").config();
 const fs = require('fs');
