@@ -28,3 +28,5 @@ fs
 config.json (Need to add data to "`clientID`", "`guildID`", "`token`", "`rolePerm`", "`roleDM`")
 
 .env (Need to add data to "`DISCORD_TOKEN`", "`ALLOWED_ROLES_ID`", "`MAX_MESSAGE_COUNT`", "`OWNER`", "`PREFIX`")
+
+*Note:* The "`clientID`" is the discord bot's Client ID
